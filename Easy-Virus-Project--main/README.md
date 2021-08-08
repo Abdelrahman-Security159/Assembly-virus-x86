@@ -7,3 +7,4 @@ Tools: 👍
   Notes:
   1-To link COM FILE use this command "tlink /t file name" 
   2-keep in mind the file name must be 8 characters'File.txt' for this program",
+![screenshot](https://user-images.githubusercontent.com/59100607/128627818-60670059-f3cc-40c9-bc73-c2f6760d19e7.jpg)
